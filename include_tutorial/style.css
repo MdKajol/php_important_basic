@@ -1,0 +1,26 @@
+#header {
+    color: #fff;
+    margin: 0;
+}
+
+#navigation {
+    background: #222;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+#navigation ul {
+    margin: 0;
+    padding: 0;
+}
+#navigation ul li {
+    list-style: none;
+    background: #fff;
+    margin: 20px 0;
+    padding: 20px 15px;
+    display: inline-flex;
+}
+#navigation ul li a {
+    color: lightblue;
+    text-decoration: none;
+}
